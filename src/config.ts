@@ -99,9 +99,4 @@ export const expressiveCodeConfig: ExpressiveCodeConfig = {
 	// 请务必选择深色主题，因为本博客主题目前仅支持深色背景。
 	theme: "github-dark",
 };
-export const umamiConfig: UmamiConfig = {
-	enable: true,
-	baseUrl: "https://cloud.umami.is",
-	shareId: "XKsfIpyqaISjA04A",
-	timezone: "Asia/Shanghai",
-};
+
