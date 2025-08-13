@@ -50,10 +50,21 @@ export const navBarConfig: NavBarConfig = {
 		},
 		LinkPreset.About,
 		{
-			name: "网站状态",
+			name: "云盘",
+			url: "https://bamqwyau.ap-northeast-1.clawcloudrun.com/", // 内部链接不需要包含基础路径，会自动添加
+			external: true, // 显示外链图标并在新标签页打开
+		},
+		{
+			name: "统计",
 			url: "https://cloud.umami.is/share/XKsfIpyqaISjA04A/yunyeblog.asia", // 内部链接不需要包含基础路径，会自动添加
 			external: true, // 显示外链图标并在新标签页打开
 		},
+		{
+			name: "网站状态",
+			url: "https://qorkrtym.ap-northeast-1.clawcloudrun.com", // 内部链接不需要包含基础路径，会自动添加
+			external: true, // 显示外链图标并在新标签页打开
+		},
+		
 	],
 };
 
