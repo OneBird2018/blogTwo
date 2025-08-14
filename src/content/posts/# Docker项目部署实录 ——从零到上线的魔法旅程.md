@@ -1,7 +1,7 @@
 ---
 title: Docker项目部署实录 ——从零到上线的魔法旅程
 published: 2025-08-14
-description: '#Docker项目部署实录 ——从零到上线的魔法旅程'
+description: '#Docker项目部署实录'
 tags: [NAS,Docker,教程]
 category: '教程'
 draft: false
