@@ -1,3 +1,13 @@
+---
+title: Docker项目部署实录 ——从零到上线的魔法旅程
+published: 2025-08-14
+description: '#Docker项目部署实录 ——从零到上线的魔法旅程'
+tags: [NAS,Docker,教程]
+category: '教程'
+draft: false
+lang: ''
+---
+
 ----
 
 `# Docker项目部署实录 ——从零到上线的魔法旅程`
@@ -6,7 +16,6 @@
 > ——一个被`docker ps`和`docker logs`治愈过的人（笑
 
 ----
-
 ## 1 手动部署
 
 这部分就是——一步一个脚印，从零开始用 Docker 把项目干到线上。  
