@@ -51,7 +51,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.About,
 		{
 			name: "网站状态",
-			url: "https://qorkrtym.ap-northeast-1.clawcloudrun.com", // 内部链接不需要包含基础路径，会自动添加
+			url: "https://wqpmomdj.ap-northeast-1.clawcloudrun.com", // 内部链接不需要包含基础路径，会自动添加
 			external: true, // 显示外链图标并在新标签页打开
 		},
 		
