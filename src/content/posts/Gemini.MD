@@ -1,5 +1,5 @@
 ---
-title: Gemini CLI：Google 开源的命令行神器（免费还带 100 万 Token，上车不？）
+title: Gemini CLI：Google 开源的命令行神器
 published: 2025-08-31
 description: 'Gemini CLI教程'
 tags: [Gemini,教程]
@@ -233,4 +233,5 @@ Gemini CLI 的命令分三类：
 * `Shift+Tab`：切换“自动修改模式”和“手动确认模式”
 * `/compress`：长对话必备，防止 Token 爆炸
 * 多开窗口：IDE 干活 + Gemini CLI 自动跑
+
 
